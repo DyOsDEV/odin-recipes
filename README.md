@@ -19,11 +19,11 @@ ________________________________________________________________________________
 
 PROJECT STRUCTURE
 
-odin-recipes/
-|-- index.html
-|-- recipes/
-|   |-- lasagna.html
-|   |-- cookies.html
-|   |-- smoothie.html
-|-- README.md
+- odin-recipes/
+- |-- index.html
+- |-- recipes/
+- |   |-- lasagna.html
+- |   |-- cookies.html
+- |   |-- smoothie.html
+- |-- README.md
 ___________________________________________________________________________________________
